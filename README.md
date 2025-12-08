@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Marsão
 - 👀 I’m interested in java e kotlin programer
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning React
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
