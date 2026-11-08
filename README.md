@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro Marsão
-- 👀 I’m interested in java e kotlin programer
+- 👀 I’m interested in java and kotlin programer
 - 🌱 I’m currently learning Go
 <!---
 - 💞️ I’m looking to collaborate on ...
